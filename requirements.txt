@@ -1,0 +1,7 @@
+python_lichess==0.9
+matplotlib==3.3.3
+tqdm==4.56.0
+chess==1.2.1
+imageio==2.9.0
+numpy==1.17.4
+CairoSVG==2.5.1
